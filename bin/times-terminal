@@ -2,6 +2,6 @@
 
 require 'nokogiri'
 require 'open-uri'
-require_relative '../lib/times-terminal.rb'
+require 'times-terminal'
 
 Headlines.new.call
