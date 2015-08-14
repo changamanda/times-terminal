@@ -30,5 +30,3 @@ class Headlines
 	end
 
 end
-
-Headlines.new.call
